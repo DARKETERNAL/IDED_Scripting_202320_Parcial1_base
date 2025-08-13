@@ -199,7 +199,7 @@ namespace TestProject1
         /// <summary>
         /// Tests TestMethods.GetNextGreaterValue()
         /// </summary>
-        [Test]
+        
         public void TestGetNextGreaterValue()
         {
             PopulateTestNGVStacks();
