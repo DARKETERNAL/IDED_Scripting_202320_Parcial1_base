@@ -13,12 +13,12 @@ namespace TestProject1
             Prime
         }
 
-        internal static Stack<int> GetNextGreaterValue(Stack<int> sourceStack)
-        {
-            Stack<int> result = null;
+        //internal static Stack<int> GetNextGreaterValue(Stack<int> sourceStack)
+        //{
+        //    Stack<int> result = null;
 
-            return result;
-        }
+        //    return result;
+        //}
 
         internal static Dictionary<int, EValueType> FillDictionaryFromSource(int[] sourceArr)
         {
